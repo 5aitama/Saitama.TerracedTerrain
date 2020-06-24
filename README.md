@@ -1,4 +1,4 @@
-# Saitama.ProceduralMesh
+# Saitama.TerracedTerrain
 
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/5aitama/Saitama.TerracedTerrain/master?label=master&color=green)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/5aitama/Saitama.TerracedTerrain/development?label=development&color=orange)
@@ -13,7 +13,7 @@ You can use this library in your Unity game by using the `Package Manager` and s
 
 ```C#
 using Unity.Mathematics;
-using Saitama.ProceduralMesh;
+using Saitama.TerracedTerrain;
 
 namespace MyNamespace
 {
