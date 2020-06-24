@@ -1,0 +1,29 @@
+{
+  "name": "com.saitama.terracedterrain",
+  "version": "1.0.0",
+  "displayName": "Saitama Terraced Terrain",
+  "description": "C# Library that give you all methods that allow you to create terraced terrain like the game godus easily.",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "dependencies": {
+    "com.unity.mathematics": "1.1.0",
+    "com.unity.collections": "0.9.0-preview.6",
+    "com.saitama.proceduralmesh": "3.0.0"
+  },
+  "keywords": [
+    "Saitama",
+    "5aitama",
+    "Procedural",
+    "Mesh",
+    "Geometry",
+    "Terraced",
+    "Terrain"
+  ],
+  "author": {
+    "name": "5aitma",
+    "email": "alx.sb@icloud.com",
+    "url": "https://twitter.com/5aitama1"
+  },
+  "hideInEditor": false,
+  "type": "library"
+}
